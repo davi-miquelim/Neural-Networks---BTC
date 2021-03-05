@@ -10,5 +10,8 @@
   <li> Yahoo Finance API </li>
   <li> Pandas </li>
   <li> matplotlib and seaborn ( to plot the neural networks results) </li>
-</ul>  
+</ul>
 
+
+<h2> How it works </h2>
+<p> It uses last 90 days bitcoin price and tries to make a prection on next the  <strong>next day price</strong> </p>
