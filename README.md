@@ -3,7 +3,7 @@
 
 
 ![alt text](https://pplware.sapo.pt/wp-content/uploads/2019/06/BTC_capa-720x423.jpg)
-<p> This is a project to show neural networks usage.Stack used:</p>
+<p> This is a project to show neural networks usage. Stack used:</p>
 <ul>
   <li> Python </li>
   <li> Tensorflow </li>
